@@ -1,1 +1,1 @@
-image tool
+image-tool
